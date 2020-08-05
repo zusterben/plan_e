@@ -1,4 +1,4 @@
-# [Merlinclash]
+# [ssserver]
 
 > 此项目提供用于paldier带软件中心固件路由器的ss服务器。
 
